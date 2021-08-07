@@ -22,7 +22,7 @@ if($idade>= 6 && $idade<=12)
 }
     else if($idade>=13 && $idade <=18)
     {
-        echo 'adolecente';
+        echo ' adolescente';
     }
 else
 {
